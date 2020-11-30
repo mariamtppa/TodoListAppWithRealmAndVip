@@ -12,7 +12,7 @@ Create a TodoList implementing CRUD using the VIP architecture and realm databas
   - When a cell on the table view is swiped and edit button is visible and when clicked, the specific todo is deleted from the database and from the tableview
 
 ### Tools 
- - uikit to build the UI and logic
+ - uikit to build the UI
  - vip architecture to ensure solid principles/clean code
  - Realm to save/ persist data
 
